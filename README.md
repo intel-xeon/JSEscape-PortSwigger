@@ -1,3 +1,3 @@
 # JSEscape-PortSwigger
 
-See example_usage.html
+See example_usage.php
