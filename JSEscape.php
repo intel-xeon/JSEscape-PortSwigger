@@ -48,7 +48,3 @@ function jsEscape($str) {
     return $output;
 }
 ?>
-
-// USAGE EXAMPLE:
-
-<script>x = '<?php echo jsEscape($_GET['input'])?>';</script>
